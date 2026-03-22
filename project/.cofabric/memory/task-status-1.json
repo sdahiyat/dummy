@@ -1,0 +1,11 @@
+{
+  "task_number": 1,
+  "title": "Project Setup & Database Schema",
+  "status": "pending",
+  "priority": "high",
+  "description": "Initialize Next.js project with TypeScript, configure PostgreSQL database connection, and create all core database migrations. Schema includes: users (id, email, password_hash, username, display_name, bio, avatar_url, subscription_tier, created_at), photos (id, user_id, storage_url, thumbnail_url, caption, exif_data jsonb, created_at), follows (follower_id, following_id, created_at), likes (user_id, photo_id, created_at), comments (id, user_id, photo_id, text, created_at), tags (id, name), photo_tags (photo_id, tag_id). Set up Prisma or Drizzle ORM. Configure environment variables structure for database, storage, auth, and AI services. Out of scope: actual service integrations, business logic.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:38.509Z"
+}

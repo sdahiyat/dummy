@@ -1,0 +1,11 @@
+{
+  "task_number": 11,
+  "title": "Responsive UI Shell & Navigation",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build the responsive application shell including header/navigation, mobile hamburger menu, bottom navigation for mobile, and consistent layout wrapper. Implement light/dark mode toggle with system preference detection. Create loading states, skeleton screens, and toast notification system for feedback. Build 404 and error pages. Ensure all existing pages integrate with shell consistently. Out of scope: complex animations, PWA features, offline support.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:42.563Z"
+}

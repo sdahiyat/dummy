@@ -1,0 +1,11 @@
+{
+  "task_number": 4,
+  "title": "Social Interactions: Follows, Likes, Comments",
+  "status": "pending",
+  "priority": "high",
+  "description": "Implement all social interaction features. Follow system: follow/unfollow users, follower/following counts, following list queries. Likes: toggle like on photos, like counts, check if current user liked. Comments: create, read, delete own comments on photos, comment counts. Build reusable UI components for like button, comment section, follow button. All actions require authentication. Out of scope: notifications, blocking users, comment editing.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:39.958Z"
+}

@@ -1,0 +1,11 @@
+{
+  "task_number": 6,
+  "title": "User Profiles",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build user profile pages showing user info (avatar, display name, bio, follower/following counts) and a grid of their photos. Include edit profile functionality for own profile (update display name, bio, avatar). Show follow button on other users' profiles. Profile photo grid supports pagination. Distinguish between own profile and viewing others. Out of scope: profile privacy settings, blocking, detailed activity history.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:40.650Z"
+}

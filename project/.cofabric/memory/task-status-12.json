@@ -1,0 +1,11 @@
+{
+  "task_number": 12,
+  "title": "Content Moderation & Safety",
+  "status": "pending",
+  "priority": "high",
+  "description": "Implement basic content moderation system. Add is_flagged and moderation_status fields to photos. Create report photo functionality for users. Build admin-only moderation queue page to review reported content (approve/remove). Implement automated NSFW detection using AI vision on upload (flag but don't block). Add user reporting and basic ban functionality. Terms of service and community guidelines pages. Out of scope: appeal system, detailed audit logs, automated ban triggers.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:42.971Z"
+}

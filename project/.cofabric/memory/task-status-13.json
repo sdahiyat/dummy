@@ -1,0 +1,11 @@
+{
+  "task_number": 13,
+  "title": "GDPR Compliance & Privacy Features",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement GDPR compliance features for EU user data protection. Cookie consent banner with preference storage. Privacy policy page explaining data collection. Data export feature allowing users to download their data (profile, photos, comments) as JSON/ZIP. Right to deletion implemented via account deletion (task 8). Update registration to require privacy policy acceptance. Add data retention documentation. Out of scope: granular consent management, automated data retention policies, DPO contact system.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:43.250Z"
+}

@@ -1,0 +1,11 @@
+{
+  "task_number": 8,
+  "title": "Settings Page & Account Management",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build settings page with account management features. Include: update email, change password, update notification preferences (stub for future), delete account with confirmation. Show current subscription tier and usage stats (photos uploaded vs limit). Link to subscription upgrade (stub - actual billing separate). Implement account deletion that removes user data appropriately. Out of scope: actual billing, detailed privacy controls, data export.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:41.404Z"
+}

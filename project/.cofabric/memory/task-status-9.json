@@ -1,0 +1,11 @@
+{
+  "task_number": 9,
+  "title": "Subscription & Payment Integration",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement Stripe integration for premium subscriptions. Create subscription tiers (free, premium at $10/month). Build subscription management UI showing current plan, upgrade/downgrade options, billing history. Implement Stripe checkout session creation, webhook handling for subscription events (created, updated, cancelled, payment failed). Update user subscription tier in database based on Stripe events. Gate premium features (unlimited uploads, AI features) based on tier. Out of scope: multiple premium tiers, annual billing, refunds, marketplace payouts.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:41.795Z"
+}

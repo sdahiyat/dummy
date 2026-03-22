@@ -1,0 +1,11 @@
+{
+  "task_number": 3,
+  "title": "Photo Upload & Storage Pipeline",
+  "status": "pending",
+  "priority": "high",
+  "description": "Implement photo upload feature with Cloudinary integration for storage. Create upload API endpoint accepting images, validate file types and sizes, generate thumbnails, extract EXIF metadata (camera, lens, settings, GPS if present), and store photo records in database. Build upload page UI with drag-and-drop, preview, caption input, and upload progress. Implement upload limits: free users max 50 photos, paid users unlimited. Handle image optimization/compression server-side. Out of scope: AI processing, tagging, feed display.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:39.519Z"
+}

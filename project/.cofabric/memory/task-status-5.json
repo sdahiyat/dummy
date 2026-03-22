@@ -1,0 +1,11 @@
+{
+  "task_number": 5,
+  "title": "Photo Feed Implementation",
+  "status": "pending",
+  "priority": "high",
+  "description": "Build the home feed displaying photos from followed users in reverse chronological order. Implement efficient pagination (cursor-based preferred) for infinite scroll. Create photo card component showing image, caption, photographer info, like/comment counts, and timestamp. Feed should be empty state friendly for new users with no follows. Include pull-to-refresh on mobile. Query optimization for feed generation. Out of scope: algorithmic ranking, explore/discover feed, ads.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:40.354Z"
+}

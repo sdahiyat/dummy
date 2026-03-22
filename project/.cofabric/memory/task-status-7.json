@@ -1,0 +1,11 @@
+{
+  "task_number": 7,
+  "title": "Search Functionality",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement search for users and photos. User search by username and display name. Photo search by caption text and tags. Build search UI with unified search bar, tabbed results (users/photos), and result cards. Use PostgreSQL full-text search or ILIKE for MVP. Include recent searches in dropdown. Search results paginated. Out of scope: advanced filters, saved searches, search analytics.",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:40.927Z"
+}

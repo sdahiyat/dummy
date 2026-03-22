@@ -1,0 +1,11 @@
+{
+  "task_number": 10,
+  "title": "AI Photo Analysis: Auto-tagging & Feedback",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement AI-powered photo analysis using Claude or OpenAI vision API. Auto-tagging: when photo uploaded, analyze and generate relevant tags (landscape, portrait, sunset, urban, etc.), save to photo_tags. Photo feedback: on-demand analysis giving composition feedback, technical critique, improvement suggestions. Build UI for viewing/editing auto-tags on photos, and requesting AI feedback with response display. Rate limit AI calls per user. Gate AI features behind premium subscription. Out of scope: style transfer, edit suggestions, caption generation (future phases).",
+  "summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T01:00:42.130Z"
+}
